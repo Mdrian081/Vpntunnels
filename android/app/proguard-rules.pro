@@ -1,0 +1,4 @@
+-keep class com.vpnapp.** { *; }
+-keep class com.facebook.react.** { *; }
+-keep class com.google.firebase.** { *; }
+-dontwarn com.facebook.react.**

@@ -1,0 +1,13 @@
+node_modules/
+.gradle/
+.idea/
+*.iml
+local.properties
+android/app/build/
+android/build/
+android/.gradle/
+*.keystore
+!android/app/debug.keystore
+ios/
+.env
+.env.*

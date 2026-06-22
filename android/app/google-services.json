@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "741788211849",
+    "firebase_url": "https://vpnproject-aa346-default-rtdb.firebaseio.com",
+    "project_id": "vpnproject-aa346",
+    "storage_bucket": "vpnproject-aa346.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741788211849:android:458fb7823882c4c90cc458",
+        "android_client_info": {
+          "package_name": "com.vpntunnel.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQX_N1u9v974bbSMU7Uo2XlQP9RhHzFoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

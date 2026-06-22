@@ -1,0 +1,7 @@
+{
+  "name": "VpnApp",
+  "displayName": "VPN App",
+  "android": {
+    "package": "com.vpntunnel.app"
+  }
+}
