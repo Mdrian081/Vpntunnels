@@ -41,6 +41,8 @@ jobs:
         run: chmod +x android/gradlew
 
       - name: Build Debug APK
+        env:
+          GRADLE_OPTS: "-Dorg.gradle.jvmargs=-Xmx2048m -XX:MaxMetaspaceSize=512m"
         run: |
           cd android
           ./gradlew assembleDebug --no-daemon
